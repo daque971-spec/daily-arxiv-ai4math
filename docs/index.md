@@ -837,6 +837,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**|N Alex Cayco Gajic et.al.|[2603.28764](http://arxiv.org/abs/2603.28764)|null|
+|**2026-03-30**|**Sparse State-Space Realizations of Linear Controllers**|Yaozhi Du et.al.|[2603.28754](http://arxiv.org/abs/2603.28754)|null|
+|**2026-03-30**|**Weakly special varieties, Campana stacks, and Remarks on Orbifold Mordell**|Finn Bartsch et.al.|[2603.28745](http://arxiv.org/abs/2603.28745)|null|
 |**2026-03-30**|**Geometry of the Ising persistence problem and the universal Bonnet-Manin Painlevé VI distribution**|Ivan Dornic et.al.|[2603.28632](http://arxiv.org/abs/2603.28632)|null|
 |**2026-03-30**|**On the Codimension-1 $\mathrm{PGL}_4$ Orbit Closures in $\mathrm{Gr}(2,10)$**|Ari Krishna et.al.|[2603.28619](http://arxiv.org/abs/2603.28619)|null|
 |**2026-03-30**|**On the dimension of the space of static potentials on three-manifolds**|Vladimir Medvedev et.al.|[2603.28617](http://arxiv.org/abs/2603.28617)|null|
@@ -1955,6 +1958,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Scalability of the asynchronous discontinuous Galerkin method for compressible flow simulations**|Shubham Kumar Goswami et.al.|[2603.28710](http://arxiv.org/abs/2603.28710)|null|
+|**2026-03-30**|**Measurable boundary maps and Patterson--Sullivan measures for non-Borel Anosov groups on the Furstenberg boundary**|Dongryul M. Kim et.al.|[2603.28694](http://arxiv.org/abs/2603.28694)|null|
+|**2026-03-30**|**Vector-valued horofunction boundaries and Patterson--Sullivan measures**|Dongryul M. Kim et.al.|[2603.28693](http://arxiv.org/abs/2603.28693)|null|
 |**2026-03-30**|**Stochasticity and probabilistic trajectory scoring are essential for data-driven closures of chaotic systems**|Martin Thomas Brolly et.al.|[2603.28671](http://arxiv.org/abs/2603.28671)|null|
 |**2026-03-30**|**Resonant solutions and (in)stability of the linear wave equation**|Giancarlo Sangalli et.al.|[2603.28661](http://arxiv.org/abs/2603.28661)|null|
 |**2026-03-30**|**Asymptotic behavior of solutions to linear evolution equations with time delay via a spectral theory on Gelfand triples**|Haozhe Shu et.al.|[2603.28640](http://arxiv.org/abs/2603.28640)|null|
@@ -2956,6 +2962,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement**|Sadra Safadoust et.al.|[2603.28759](http://arxiv.org/abs/2603.28759)|null|
+|**2026-03-30**|**Weakly special varieties, Campana stacks, and Remarks on Orbifold Mordell**|Finn Bartsch et.al.|[2603.28745](http://arxiv.org/abs/2603.28745)|null|
+|**2026-03-30**|**Measurable boundary maps and Patterson--Sullivan measures for non-Borel Anosov groups on the Furstenberg boundary**|Dongryul M. Kim et.al.|[2603.28694](http://arxiv.org/abs/2603.28694)|null|
+|**2026-03-30**|**Vector-valued horofunction boundaries and Patterson--Sullivan measures**|Dongryul M. Kim et.al.|[2603.28693](http://arxiv.org/abs/2603.28693)|null|
 |**2026-03-30**|**Optimal bounds for an Erdős problem on matching integers to distinct multiples**|Wouter van Doorn et.al.|[2603.28636](http://arxiv.org/abs/2603.28636)|null|
 |**2026-03-30**|**Geometry of the Ising persistence problem and the universal Bonnet-Manin Painlevé VI distribution**|Ivan Dornic et.al.|[2603.28632](http://arxiv.org/abs/2603.28632)|null|
 |**2026-03-30**|**Numeral systems with non-zero redundancy and their applications in the theory of locally complex functions**|S. O. Vaskevych et.al.|[2603.28606](http://arxiv.org/abs/2603.28606)|null|
@@ -3568,6 +3578,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Study of Post Quantum status of Widely Used Protocols**|Tushin Mallick et.al.|[2603.28728](http://arxiv.org/abs/2603.28728)|null|
+|**2026-03-30**|**BitSov: A Composable Bitcoin-Native Architecture for Sovereign Internet Infrastructure**|Oliver Aleksander Larsen et.al.|[2603.28727](http://arxiv.org/abs/2603.28727)|null|
 |**2026-03-30**|**FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning**|Osama Wehbi et.al.|[2603.28673](http://arxiv.org/abs/2603.28673)|null|
 |**2026-03-30**|**Safeguarding LLMs Against Misuse and AI-Driven Malware Using Steganographic Canaries**|Md Raz et.al.|[2603.28655](http://arxiv.org/abs/2603.28655)|null|
 |**2026-03-30**|**Interpretable Ensemble Learning for Network Traffic Anomaly Detection: A SHAP-based Explainable AI Framework for Embedded Systems Security**|Wanru Shao et.al.|[2603.28654](http://arxiv.org/abs/2603.28654)|null|
