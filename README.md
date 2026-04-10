@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,12 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Metacat: a categorical framework for formal systems**|Paul Wilson et.al.|[2604.08331](http://arxiv.org/abs/2604.08331)|null|
+|**2026-04-09**|**FORSLICE: An Automated Formal Framework for Efficient PRB-Allocation towards Slicing Multiple Network Services**|Debarpita Banerjee et.al.|[2604.08244](http://arxiv.org/abs/2604.08244)|null|
+|**2026-04-09**|**AITH: A Post-Quantum Continuous Delegation Protocol for Human-AI Trust Establishment**|Zhaoliang Chen et.al.|[2604.07695](http://arxiv.org/abs/2604.07695)|null|
+|**2026-04-08**|**Munkres' General Topology Autoformalized in Isabelle/HOL**|Dustin Bryant et.al.|[2604.07455](http://arxiv.org/abs/2604.07455)|null|
 |**2026-04-08**|**Broken Quantum: A Systematic Formal Verification Study of Security Vulnerabilities Across the Open-Source Quantum Computing Simulator Ecosystem**|Dominik Blain et.al.|[2604.06712](http://arxiv.org/abs/2604.06712)|null|
 |**2026-04-07**|**ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning**|Kranthi Kommuru et.al.|[2604.06401](http://arxiv.org/abs/2604.06401)|null|
 |**2026-04-07**|**Adversarial Robustness of Time-Series Classification for Crystal Collimator Alignment**|Xaver Fink et.al.|[2604.06289](http://arxiv.org/abs/2604.06289)|null|
 |**2026-04-07**|**Formalization of De Giorgi--Nash--Moser Theory in Lean**|Scott Armstrong et.al.|[2604.05984](http://arxiv.org/abs/2604.05984)|null|
 |**2026-04-07**|**A Formal Security Framework for MCP-Based AI Agents: Threat Taxonomy, Verification Models, and Defense Mechanisms**|Nirajan Acharya et.al.|[2604.05969](http://arxiv.org/abs/2604.05969)|null|
-|**2026-04-07**|**PROMISE: Proof Automation as Structural Imitation of Human Reasoning**|Youngjoo Ahn et.al.|[2604.05399](http://arxiv.org/abs/2604.05399)|null|
+|**2026-04-09**|**PROMISE: Proof Automation as Structural Imitation of Human Reasoning**|Youngjoo Ahn et.al.|[2604.05399](http://arxiv.org/abs/2604.05399)|null|
 |**2026-04-08**|**Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code**|Dominik Blain et.al.|[2604.05292](http://arxiv.org/abs/2604.05292)|null|
 |**2026-04-06**|**A Prime-Generated Formalization of Nagata's Factoriality Theorem in Lean 4**|Arthur F. Ramos et.al.|[2604.05238](http://arxiv.org/abs/2604.05238)|null|
 |**2026-04-06**|**Generalizable Audio-Visual Navigation via Binaural Difference Attention and Action Transition Prediction**|Jia Li et.al.|[2604.05007](http://arxiv.org/abs/2604.05007)|null|
@@ -221,14 +225,17 @@
 |**2026-01-13**|**Do You Understand How I Feel?: Towards Verified Empathy in Therapy Chatbots**|Francesco Dettori et.al.|[2601.08477](http://arxiv.org/abs/2601.08477)|null|
 |**2026-01-12**|**A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems**|Samuel I. Akinwande et.al.|[2601.08065](http://arxiv.org/abs/2601.08065)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Symbolic AI & Equation Discovery
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization**|Benjamin Léger et.al.|[2604.08324](http://arxiv.org/abs/2604.08324)|null|
+|**2026-04-09**|**Unveiling the Core of Materials Properties via SISSO and Sensitivity Analysis**|Lucas Foppa et.al.|[2604.08122](http://arxiv.org/abs/2604.08122)|null|
+|**2026-04-09**|**Tensor-based computation of the Koopman generator via operator logarithm**|Tatsuya Kishimoto et.al.|[2604.07685](http://arxiv.org/abs/2604.07685)|null|
 |**2026-04-08**|**Autopoiesis: A Self-Evolving System Paradigm for LLM Serving Under Runtime Dynamics**|Youhe Jiang et.al.|[2604.07144](http://arxiv.org/abs/2604.07144)|null|
-|**2026-04-08**|**Polylab: A MATLAB Toolbox for Multivariate Polynomial Modeling**|Yi-Shuai Niu et.al.|[2604.06575](http://arxiv.org/abs/2604.06575)|null|
+|**2026-04-09**|**Polylab: A MATLAB Toolbox for Multivariate Polynomial Modeling**|Yi-Shuai Niu et.al.|[2604.06575](http://arxiv.org/abs/2604.06575)|null|
 |**2026-04-07**|**A Formal Refutation of the Hypergeometric Parametric Extension for Reciprocal Binomial Sums**|Johar M. Ashfaque et.al.|[2604.06295](http://arxiv.org/abs/2604.06295)|null|
 |**2026-04-07**|**MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation**|Yehui Yang et.al.|[2604.06269](http://arxiv.org/abs/2604.06269)|null|
 |**2026-04-07**|**A machine learning framework for uncovering stochastic nonlinear dynamics from noisy data**|Matteo Bosso et.al.|[2604.06081](http://arxiv.org/abs/2604.06081)|null|
@@ -465,12 +472,22 @@
 |**2026-01-13**|**A Qualitative Model to Reason about Object Rotations (QOR) applied to solve the Cube Comparison Test (CCT)**|Zoe Falomir et.al.|[2601.08382](http://arxiv.org/abs/2601.08382)|null|
 |**2026-01-12**|**Note on Pure D-brane (non--)BPS Black Hole Microstate Counting in Type IIA Superstring Theory**|Sourav Maji et.al.|[2601.07927](http://arxiv.org/abs/2601.07927)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## LLMs for Mathematics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
+|**2026-04-09**|**Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models**|Shilin Yan et.al.|[2604.08545](http://arxiv.org/abs/2604.08545)|null|
+|**2026-04-09**|**Formalizing building-up constructions of self-dual codes through isotropic lines in Lean**|Jae-Hyun Baek et.al.|[2604.08485](http://arxiv.org/abs/2604.08485)|null|
+|**2026-04-09**|**Learning Who Disagrees: Demographic Importance Weighting for Modeling Annotator Distributions with DiADEM**|Samay U. Shetty et.al.|[2604.08425](http://arxiv.org/abs/2604.08425)|null|
+|**2026-04-09**|**On a remark of de Gennes concerning three-dimensional polyelectrolytes**|Carl Mueller et.al.|[2604.08389](http://arxiv.org/abs/2604.08389)|null|
+|**2026-04-09**|**Self-Debias: Self-correcting for Debiasing Large Language Models**|Xuan Feng et.al.|[2604.08243](http://arxiv.org/abs/2604.08243)|null|
+|**2026-04-09**|**On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning**|Amirhossein Afsharrad et.al.|[2604.07944](http://arxiv.org/abs/2604.07944)|null|
+|**2026-04-09**|**Tarot-SAM3: Training-free SAM3 for Any Referring Expression Segmentation**|Weiming Zhang et.al.|[2604.07916](http://arxiv.org/abs/2604.07916)|null|
+|**2026-04-09**|**Capture-Quiet Decomposition: A Verification Theorem for Chess Endgame Tablebases**|Alexander Pavlov et.al.|[2604.07907](http://arxiv.org/abs/2604.07907)|null|
+|**2026-04-09**|**ZeroCoder: Can LLMs Improve Code Generation Without Ground-Truth Supervision?**|Lishui Fan et.al.|[2604.07864](http://arxiv.org/abs/2604.07864)|null|
 |**2026-04-08**|**Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent**|Bingxuan Li et.al.|[2604.07269](http://arxiv.org/abs/2604.07269)|null|
 |**2026-04-08**|**Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization**|Yu Li et.al.|[2604.07165](http://arxiv.org/abs/2604.07165)|null|
 |**2026-04-08**|**Information as Structural Alignment: A Dynamical Theory of Continual Learning**|Radu Negulescu et.al.|[2604.07108](http://arxiv.org/abs/2604.07108)|null|
@@ -957,12 +974,22 @@
 |**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
 |**2026-01-15**|**Advanced Manufacturing with Renewable and Bio-based Materials: AI/ML workflows and Process Optimization**|Rigoberto Advincula et.al.|[2601.10382](http://arxiv.org/abs/2601.10382)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Geometry, Topology & Graph Theory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Einstein connection of nonsymmetric pseudo-Riemannian manifold, II**|Vladimir Rovenski et.al.|[2604.08486](http://arxiv.org/abs/2604.08486)|null|
+|**2026-04-09**|**A dimension descent scheme for the positive mass theorem in high dimensions**|S. Brendle et.al.|[2604.08473](http://arxiv.org/abs/2604.08473)|null|
+|**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[2604.08469](http://arxiv.org/abs/2604.08469)|null|
+|**2026-04-09**|**Formulae for indices of holomorphic foliations via reduction of singularities**|Maycol Falla Luza et.al.|[2604.08464](http://arxiv.org/abs/2604.08464)|null|
+|**2026-04-09**|**Derived jet and arc spaces**|Roi Docampo et.al.|[2604.08429](http://arxiv.org/abs/2604.08429)|null|
+|**2026-04-09**|**Local and global conformal invariants of submanifolds**|Jeffrey S. Case et.al.|[2604.08372](http://arxiv.org/abs/2604.08372)|null|
+|**2026-04-09**|**Discrete symmetries of Feynman integrals**|Claude Duhr et.al.|[2604.08332](http://arxiv.org/abs/2604.08332)|null|
+|**2026-04-09**|**Lie-Poisson reduction in principal bundles by a subgroup of the structure group**|Miguel Ángel Berbel et.al.|[2604.08288](http://arxiv.org/abs/2604.08288)|null|
+|**2026-04-09**|**Topology of 3-manifolds with nonnegative scalar curvature and positive harmonic functions**|Zetian Yan et.al.|[2604.08285](http://arxiv.org/abs/2604.08285)|null|
+|**2026-04-09**|**Marked magnetic action rigidity**|Louis-Brahim Beaufort et.al.|[2604.08262](http://arxiv.org/abs/2604.08262)|null|
 |**2026-04-08**|**Negative curvature obstructs the existence of good barriers for interior-point methods**|Christopher Criscitiello et.al.|[2604.07319](http://arxiv.org/abs/2604.07319)|null|
 |**2026-04-08**|**Reconstruction of F-cohomological field theories on moduli of compact type**|Gaëtan Borot et.al.|[2604.07270](http://arxiv.org/abs/2604.07270)|null|
 |**2026-04-08**|**Stable degeneration and birational geometry**|Lu Qi et.al.|[2604.07255](http://arxiv.org/abs/2604.07255)|null|
@@ -1633,12 +1660,19 @@
 |**2026-01-16**|**Theta operators on Hodge type Shimura varieties**|Martin Ortiz et.al.|[2601.11260](http://arxiv.org/abs/2601.11260)|null|
 |**2026-01-16**|**The rank-nullity ring of a matroid**|Tara Fife et.al.|[2601.11246](http://arxiv.org/abs/2601.11246)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Combinatorics & Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Per-Shot Evaluation of QAOA on Max-Cut: A Black-Box Implementation Comparison with Goemans-Williamson**|Evgenii Dolzhkov et.al.|[2604.08367](http://arxiv.org/abs/2604.08367)|null|
+|**2026-04-09**|**Bandwidth reduction methods for packetized MPC over lossy networks**|Alberto Mingoia et.al.|[2604.08270](http://arxiv.org/abs/2604.08270)|null|
+|**2026-04-09**|**Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning**|Ryo Suzuki et.al.|[2604.07951](http://arxiv.org/abs/2604.07951)|null|
+|**2026-04-09**|**Sparse String Graphs and Region Intersection Graphs over Minor-Closed Classes have Linear Expansion**|Nikolai Karol et.al.|[2604.07903](http://arxiv.org/abs/2604.07903)|null|
+|**2026-04-09**|**PyVRP $^+$ : LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems**|Manuj Malik et.al.|[2604.07872](http://arxiv.org/abs/2604.07872)|null|
+|**2026-04-08**|**Assessing Sensitivity to IV Exclusion and Exogeneity without First Stage Monotonicity**|Paul Diegert et.al.|[2604.07604](http://arxiv.org/abs/2604.07604)|null|
+|**2026-04-08**|**Fast Heterogeneous Serving: Scalable Mixed-Scale LLM Allocation for SLO-Constrained Inference**|Jiaming Cheng et.al.|[2604.07472](http://arxiv.org/abs/2604.07472)|null|
 |**2026-04-08**|**Improving Feasibility in Quantum Approximate Optimization Algorithm for Vehicle Routing via Constraint-Aware Initialization and Hybrid XY-X Mixing**|Yuan-Zheng Lei et.al.|[2604.07218](http://arxiv.org/abs/2604.07218)|null|
 |**2026-04-08**|**Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance**|Hanzhang Tang et.al.|[2604.07192](http://arxiv.org/abs/2604.07192)|null|
 |**2026-04-08**|**TSO-DSO Coordinated Reactive Power Dispatch for Smart Inverters with Multiple Control Modes Real-Time Implementation**|Mohammad Almomani et.al.|[2604.07064](http://arxiv.org/abs/2604.07064)|null|
@@ -2222,12 +2256,22 @@
 |**2026-01-16**|**The Dynamic Team Orienteering Problem in Spatial Crowdsourcing: A Scenario Sampling Approach**|Zhibin Wu et.al.|[2601.11010](http://arxiv.org/abs/2601.11010)|null|
 |**2026-01-15**|**Sustainable Vertical Heterogeneous Networks: A Cell Switching Approach with High Altitude Platform Station**|Maryam Salamatmoghadasi et.al.|[2601.10891](http://arxiv.org/abs/2601.10891)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Analysis & PDE Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Johnson-Schwartzman Gap Labelling for Metric and Discrete Decorated Graphs**|Ram Band et.al.|[2604.08496](http://arxiv.org/abs/2604.08496)|null|
+|**2026-04-09**|**Hard-constrained Physics-informed Neural Networks for Interface Problems**|Seung Whan Chung et.al.|[2604.08453](http://arxiv.org/abs/2604.08453)|null|
+|**2026-04-09**|**Numerical approximation of the Koopman-von Neumann equation: Operator learning and quantum computing**|Stefan Klus et.al.|[2604.08414](http://arxiv.org/abs/2604.08414)|null|
+|**2026-04-09**|**Exoplanet Orbital Distribution around FGK Sun-like Host Stars I: planet occurrence rate derived from the Kepler Mission and theoretical interpretations from planet formation**|Li Zeng et.al.|[2604.08406](http://arxiv.org/abs/2604.08406)|null|
+|**2026-04-09**|**Words and numbers: a dynamical systems perspective**|Stefano Isola et.al.|[2604.08339](http://arxiv.org/abs/2604.08339)|null|
+|**2026-04-09**|**Neuromodulation supports robust rhythmic pattern transitions in degenerate central pattern generators with fixed connectivity**|Arthur Fyon et.al.|[2604.08312](http://arxiv.org/abs/2604.08312)|null|
+|**2026-04-09**|**Spectral decomposition of doubly power-bounded elements in Banach algebras**|Osamu Hatori et.al.|[2604.08310](http://arxiv.org/abs/2604.08310)|null|
+|**2026-04-09**|**Stability and Sensitivity Analysis for Objective Misspecifications Among Model Predictive Game Controllers**|Ada Yildirim et.al.|[2604.08303](http://arxiv.org/abs/2604.08303)|null|
+|**2026-04-09**|**A convergence rate for the entropic JKO scheme**|Aymeric Baradat et.al.|[2604.08283](http://arxiv.org/abs/2604.08283)|null|
+|**2026-04-09**|**Local Lie Theory in Quasi-Banach Lie Algebras: Convergence of the BCH Series and Geometric Implications**|Nassim Athmouni et.al.|[2604.08265](http://arxiv.org/abs/2604.08265)|null|
 |**2026-04-08**|**Non-Lipschitz Inertial Contraction-Type Method for Monotone Variational Inclusion problems**|Feeroz Babu et.al.|[2604.07241](http://arxiv.org/abs/2604.07241)|null|
 |**2026-04-08**|**Emergence of cooperation in nonlinear higher-order public goods games**|Jaume Llabrés et.al.|[2604.07228](http://arxiv.org/abs/2604.07228)|null|
 |**2026-04-08**|**An Inexact Trust-Region Method for Structured Nonsmooth Optimization with Application to Risk-Averse Stochastic Programming**|Drew P. Kouri et.al.|[2604.07216](http://arxiv.org/abs/2604.07216)|null|
@@ -2905,12 +2949,21 @@
 |**2026-01-16**|**Second order continuous and discrete dynamical systems for solving inverse quasi-variational inequalities**|Pham Viet Hai et.al.|[2601.11300](http://arxiv.org/abs/2601.11300)|null|
 |**2026-01-16**|**Precompact families of Carathéodory differential equations revisited**|Sylvia Novo et.al.|[2601.11274](http://arxiv.org/abs/2601.11274)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Numerical Analysis & Scientific Computing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Meshfree GMsFEM-based exponential integration for multiscale 3D advection-diffusion problems**|Djulustan Nikiforov et.al.|[2604.08347](http://arxiv.org/abs/2604.08347)|null|
+|**2026-04-09**|**Semiparametric Causal Mediation Analysis for Linear Models with Non-Gaussian Errors: Applications to Drug Treatment and Social Program Evaluation**|Mijeong Kim et.al.|[2604.08346](http://arxiv.org/abs/2604.08346)|null|
+|**2026-04-09**|**Local discontinuous Galerkin FEM for convex minimization**|Carsten Carstensen et.al.|[2604.08246](http://arxiv.org/abs/2604.08246)|null|
+|**2026-04-09**|**Bayesian Tendon Breakage Localization under Model Uncertainty Using Distributed Fiber Optic Sensors**|Daniel Andrés Arcones et.al.|[2604.08162](http://arxiv.org/abs/2604.08162)|null|
+|**2026-04-09**|**The Boolean surface area of polynomial threshold functions**|Joseph Slote et.al.|[2604.08095](http://arxiv.org/abs/2604.08095)|null|
+|**2026-04-09**|**Viscoelastic Droplet Impact on Surfaces with Sharp Wettability Contrast: Coupled Influence of Relaxation Time and Surface Tension**|Mahmood Mousavi et.al.|[2604.07854](http://arxiv.org/abs/2604.07854)|null|
+|**2026-04-09**|**Error Analysis of a Conforming FEM for Multidimensional Fragmentation Equations**|Arushi et.al.|[2604.07793](http://arxiv.org/abs/2604.07793)|null|
+|**2026-04-09**|**A DC Composite Optimization via Variable Smoothing for Robust Phase Retrieval with Nonconvex Loss Functions**|Kumataro Yazawa et.al.|[2604.07686](http://arxiv.org/abs/2604.07686)|null|
+|**2026-04-08**|**Universal, sample-optimal algorithms for recovery of anisotropic functions from i.i.d. samples**|Ben Adcock et.al.|[2604.07660](http://arxiv.org/abs/2604.07660)|null|
 |**2026-04-08**|**Robust preconditioning for an HDG discretization of the time-dependent Stokes equations**|Esteban Henríquez et.al.|[2604.07202](http://arxiv.org/abs/2604.07202)|null|
 |**2026-04-08**|**Cut Finite Element Methods for Convection-Diffusion in Mixed-Dimensional Domains**|Erik Burman et.al.|[2604.07162](http://arxiv.org/abs/2604.07162)|null|
 |**2026-04-08**|**Deterministic sketching for Krylov subspace methods**|Kai Bergermann et.al.|[2604.07158](http://arxiv.org/abs/2604.07158)|null|
@@ -3362,12 +3415,22 @@
 |**2026-01-15**|**Optimal error estimates for a discontinuous Galerkin method on curved boundaries with polygonal meshes**|Adérito Araújo et.al.|[2601.10474](http://arxiv.org/abs/2601.10474)|null|
 |**2026-01-15**|**Non-Intrusive Hyperreduction by a Physics-Augmented Neural Network with Second-Order Sobolev Training**|Arwed Schütz et.al.|[2601.10442](http://arxiv.org/abs/2601.10442)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Probability, Statistics & Algebra
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Small entropy doubling for random walks and polynomial growth**|Guy Blachar et.al.|[2604.08490](http://arxiv.org/abs/2604.08490)|null|
+|**2026-04-09**|**Bayesian Semiparametric Multivariate Density Regression with Coordinate-Wise Predictor Selection**|Giovanni Toto et.al.|[2604.08470](http://arxiv.org/abs/2604.08470)|null|
+|**2026-04-09**|**Deck transformations of developable complexes of groups**|Alexander Nath et.al.|[2604.08436](http://arxiv.org/abs/2604.08436)|null|
+|**2026-04-09**|**Controlling the rain fall statistics using Mean-Reverting Jump Diffusion model**|Joya GhoshDastider et.al.|[2604.08338](http://arxiv.org/abs/2604.08338)|null|
+|**2026-04-09**|**Discrete symmetries of Feynman integrals**|Claude Duhr et.al.|[2604.08332](http://arxiv.org/abs/2604.08332)|null|
+|**2026-04-09**|**The peculiar velocity correlation function of the Cosmicflows-4 catalog**|Yuyu Wang et.al.|[2604.08314](http://arxiv.org/abs/2604.08314)|null|
+|**2026-04-09**|**Bayesian Inference for Estimating Generation Costs in Electricity Markets**|Matthias Pirlet et.al.|[2604.08309](http://arxiv.org/abs/2604.08309)|null|
+|**2026-04-09**|**Chemistry and ro-vibrational excitation of CH $^+$ in the Planetary Nebula NGC 7027**|Milan Sil et.al.|[2604.08273](http://arxiv.org/abs/2604.08273)|null|
+|**2026-04-09**|**A Liouville-Type Inequality for Values of Mahler M-Functions**|Boris Adamczewski et.al.|[2604.08208](http://arxiv.org/abs/2604.08208)|null|
+|**2026-04-09**|**Bayesian Tendon Breakage Localization under Model Uncertainty Using Distributed Fiber Optic Sensors**|Daniel Andrés Arcones et.al.|[2604.08162](http://arxiv.org/abs/2604.08162)|null|
 |**2026-04-08**|**$p$ -adic Theory for Partial Toric Exponential Sums**|C. Douglas Haessig et.al.|[2604.07330](http://arxiv.org/abs/2604.07330)|null|
 |**2026-04-08**|**Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification**|Xin Tian et.al.|[2604.07298](http://arxiv.org/abs/2604.07298)|null|
 |**2026-04-08**|**On a conjecture of Deines**|Mentzelos Melistas et.al.|[2604.07295](http://arxiv.org/abs/2604.07295)|null|
@@ -4050,12 +4113,22 @@
 |**2026-01-16**|**A de Rham weight part of Serre's conjecture and generalized mod $p$ BGG decompositions**|Martin Ortiz et.al.|[2601.11271](http://arxiv.org/abs/2601.11271)|null|
 |**2026-01-16**|**Theta operators on Hodge type Shimura varieties**|Martin Ortiz et.al.|[2601.11260](http://arxiv.org/abs/2601.11260)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 ## Discrete Math & Cryptography
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**PIArena: A Platform for Prompt Injection Evaluation**|Runpeng Geng et.al.|[2604.08499](http://arxiv.org/abs/2604.08499)|null|
+|**2026-04-09**|**Post-Quantum Cryptographic Analysis of Message Transformations Across the Network Stack**|Ashish Kundu et.al.|[2604.08480](http://arxiv.org/abs/2604.08480)|null|
+|**2026-04-09**|**Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs**|Kevin Lira et.al.|[2604.08417](http://arxiv.org/abs/2604.08417)|null|
+|**2026-04-09**|**Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain**|Hanzhi Liu et.al.|[2604.08407](http://arxiv.org/abs/2604.08407)|null|
+|**2026-04-09**|**Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot**|Nicolás E. Díaz Ferreyra et.al.|[2604.08352](http://arxiv.org/abs/2604.08352)|null|
+|**2026-04-09**|**Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions**|Yuming Xu et.al.|[2604.08304](http://arxiv.org/abs/2604.08304)|null|
+|**2026-04-09**|**Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models**|Weiwei Qi et.al.|[2604.08297](http://arxiv.org/abs/2604.08297)|null|
+|**2026-04-09**|**VCAO: Verifier-Centered Agentic Orchestration for Strategic OS Vulnerability Discovery**|Suyash Mishra et.al.|[2604.08291](http://arxiv.org/abs/2604.08291)|null|
+|**2026-04-09**|**ACF: A Collaborative Framework for Agent Covert Communication under Cognitive Asymmetry**|Wansheng Wu et.al.|[2604.08276](http://arxiv.org/abs/2604.08276)|null|
+|**2026-04-09**|**Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security**|Hui Gong et.al.|[2604.08180](http://arxiv.org/abs/2604.08180)|null|
 |**2026-04-08**|**Validated Intent Compilation for Constrained Routing in LEO Mega-Constellations**|Yuanhang Li et.al.|[2604.07264](http://arxiv.org/abs/2604.07264)|null|
 |**2026-04-08**|**On the Price of Privacy for Language Identification and Generation**|Xiaoyu Li et.al.|[2604.07238](http://arxiv.org/abs/2604.07238)|null|
 |**2026-04-08**|**TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories**|Yen-Shan Chen et.al.|[2604.07223](http://arxiv.org/abs/2604.07223)|null|
@@ -4717,7 +4790,7 @@
 |**2026-01-16**|**A Defender-Attacker-Defender Model for Optimizing the Resilience of Hospital Networks to Cyberattacks**|Stephan Helfrich et.al.|[2601.11129](http://arxiv.org/abs/2601.11129)|null|
 |**2026-01-16**|**Differentially Private Subspace Fine-Tuning for Large Language Models**|Lele Zheng et.al.|[2601.11113](http://arxiv.org/abs/2601.11113)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4math-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4math-arxiv-daily/graphs/contributors
