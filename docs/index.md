@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Formal Methods & Automated Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**Intent-aligned Formal Specification Synthesis via Traceable Refinement**|Zhe Ye et.al.|[2604.10392](http://arxiv.org/abs/2604.10392)|null|
 |**2026-04-10**|**CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation**|Yushi Feng et.al.|[2604.09155](http://arxiv.org/abs/2604.09155)|null|
 |**2026-04-09**|**Systematic API Testing Through Model Checking and Executable Contracts**|Ana Ribeiro et.al.|[2604.08633](http://arxiv.org/abs/2604.08633)|null|
 |**2026-04-09**|**Metacat: a categorical framework for formal systems**|Paul Wilson et.al.|[2604.08331](http://arxiv.org/abs/2604.08331)|null|
@@ -220,6 +221,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**Leveraging Mathematical Reasoning of LLMs for Efficient GPU Thread Mapping**|Jose Maureira et.al.|[2604.10387](http://arxiv.org/abs/2604.10387)|null|
+|**2026-04-11**|**Computing Homomorphisms of Poset Representations with Applications to Multiparameter Persistence**|Jan Jendrysiak et.al.|[2604.10381](http://arxiv.org/abs/2604.10381)|null|
 |**2026-04-10**|**Agentic Jackal: Live Execution and Semantic Value Grounding for Text-to-JQL**|Vishnu Murali et.al.|[2604.09470](http://arxiv.org/abs/2604.09470)|null|
 |**2026-04-10**|**Scalable High-Recall Constraint-Satisfaction-Based Information Retrieval for Clinical Trials Matching**|Cyrus Zhou et.al.|[2604.08849](http://arxiv.org/abs/2604.08849)|null|
 |**2026-04-09**|**Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization**|Benjamin Léger et.al.|[2604.08324](http://arxiv.org/abs/2604.08324)|null|
@@ -467,6 +470,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs**|Yuzhen Mao et.al.|[2604.10539](http://arxiv.org/abs/2604.10539)|null|
+|**2026-04-12**|**Evaluating Small Open LLMs for Medical Question Answering: A Practical Framework**|Avi-ad Avraam Buskila et.al.|[2604.10535](http://arxiv.org/abs/2604.10535)|null|
+|**2026-04-12**|**How Many Tries Does It Take? Iterative Self-Repair in LLM Code Generation Across Model Scales and Benchmarks**|Johin Johny Arimbur et.al.|[2604.10508](http://arxiv.org/abs/2604.10508)|null|
+|**2026-04-12**|**DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain**|Song Jin et.al.|[2604.10425](http://arxiv.org/abs/2604.10425)|null|
+|**2026-04-11**|**Edu-MMBias: A Three-Tier Multimodal Benchmark for Auditing Social Bias in Vision-Language Models under Educational Contexts**|Ruijia Li et.al.|[2604.10200](http://arxiv.org/abs/2604.10200)|null|
+|**2026-04-11**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Dongjie Huo et.al.|[2604.10096](http://arxiv.org/abs/2604.10096)|null|
 |**2026-04-10**|**HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?**|Mohamed Elfeki et.al.|[2604.09408](http://arxiv.org/abs/2604.09408)|null|
 |**2026-04-10**|**Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym**|Lars Benedikt Kaesberg et.al.|[2604.09338](http://arxiv.org/abs/2604.09338)|null|
 |**2026-04-10**|**Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents**|Maochen Sun et.al.|[2604.09308](http://arxiv.org/abs/2604.09308)|null|
@@ -974,6 +983,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**Riemannian Geometry on Associative Varieties**|Arvid Siqveland et.al.|[2604.10462](http://arxiv.org/abs/2604.10462)|null|
+|**2026-04-11**|**Computing Homomorphisms of Poset Representations with Applications to Multiparameter Persistence**|Jan Jendrysiak et.al.|[2604.10381](http://arxiv.org/abs/2604.10381)|null|
+|**2026-04-11**|**Symplectic algebroids, groupoid Toeplitz operators and deformation quantization**|Clément Cren et.al.|[2604.10370](http://arxiv.org/abs/2604.10370)|null|
+|**2026-04-11**|**Deformations, Derived Categories, and Multiparameter Persistence: A Theoretical Framework**|Mauricio Angel et.al.|[2604.10361](http://arxiv.org/abs/2604.10361)|null|
+|**2026-04-11**|**Lorentz harmonic maps into the hyperbolic plane and spacelike surfaces in anti-de Sitter 3-space**|Jorge Bravo-Gadea et.al.|[2604.10302](http://arxiv.org/abs/2604.10302)|null|
+|**2026-04-11**|**Persistent Simple-homotopy invariants via discrete Morse theory**|Divya Ahuja et.al.|[2604.10192](http://arxiv.org/abs/2604.10192)|null|
+|**2026-04-11**|**Notes on the decomposition theorem for blowups**|Hiroshi Iritani et.al.|[2604.10028](http://arxiv.org/abs/2604.10028)|null|
+|**2026-04-11**|**On weak formulations of (super) Ricci flows**|Sajjad Lakzian et.al.|[2604.10007](http://arxiv.org/abs/2604.10007)|null|
+|**2026-04-11**|**A generalization of the inverse mapping theorem in infinite dimensions**|Sajjad Lakzian et.al.|[2604.10002](http://arxiv.org/abs/2604.10002)|null|
+|**2026-04-11**|**Descendant and Fourier-Mukai equivalences for simple flops**|Jiun-Cheng Chen et.al.|[2604.09962](http://arxiv.org/abs/2604.09962)|null|
 |**2026-04-10**|**Modular curves and bad reduction**|Adam Logan et.al.|[2604.09536](http://arxiv.org/abs/2604.09536)|null|
 |**2026-04-10**|**Billey-Type Formula for KL-Schubert Classes in Hyperbolic Cohomology**|Cristian Lenart et.al.|[2604.09416](http://arxiv.org/abs/2604.09416)|null|
 |**2026-04-10**|**Asymptotic rigidity of codimension-1 isometric immersions via quantitative estimates**|Mert Baştuğ et.al.|[2604.09387](http://arxiv.org/abs/2604.09387)|null|
@@ -1668,6 +1687,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**Bidirectional Learning of Facial Action Units and Expressions via Structured Semantic Mapping across Heterogeneous Datasets**|Jia Li et.al.|[2604.10541](http://arxiv.org/abs/2604.10541)|null|
+|**2026-04-12**|**Public Key Encryption from High-Corruption Constraint Satisfaction Problems**|Isaac M Hair et.al.|[2604.10479](http://arxiv.org/abs/2604.10479)|null|
+|**2026-04-12**|**An Upper Bound on the Linear Turán Number of $k$ -Crowns**|Rajat Adak et.al.|[2604.10467](http://arxiv.org/abs/2604.10467)|null|
+|**2026-04-12**|**Ising-based Test Optimization and Benchmarking**|Yige Yang et.al.|[2604.10450](http://arxiv.org/abs/2604.10450)|null|
+|**2026-04-11**|**COSMIK-MPPI: Scaling Constrained Model Predictive Control to Collision Avoidance in Close-Proximity Dynamic Human Environments**|Ege Gursoy et.al.|[2604.10358](http://arxiv.org/abs/2604.10358)|null|
+|**2026-04-11**|**Hub location problems with asymmetric allocation**|I. Espejo et.al.|[2604.10307](http://arxiv.org/abs/2604.10307)|null|
+|**2026-04-11**|**Some progress on the use of the variational method in quantum field theory**|Antoine Tilloy et.al.|[2604.10284](http://arxiv.org/abs/2604.10284)|null|
+|**2026-04-11**|**Strong modules and asynchronous attractors of Boolean networks**|Paul Ruet et.al.|[2604.10193](http://arxiv.org/abs/2604.10193)|null|
+|**2026-04-11**|**Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD**|Shengjie Gong et.al.|[2604.10075](http://arxiv.org/abs/2604.10075)|null|
+|**2026-04-10**|**Does Your VFM Speak Plant? The Botanical Grammar of Vision Foundation Models for Object Detection**|Lars Lundqvist et.al.|[2604.09920](http://arxiv.org/abs/2604.09920)|null|
 |**2026-04-10**|**On Worst-Case Optimal Polynomial Intersection**|Yihang Sun et.al.|[2604.09533](http://arxiv.org/abs/2604.09533)|null|
 |**2026-04-10**|**Random 0/1-polytopes expand rapidly**|He Guo et.al.|[2604.09520](http://arxiv.org/abs/2604.09520)|null|
 |**2026-04-10**|**Offline Local Search for Online Stochastic Bandits**|Gerdus Benadè et.al.|[2604.09423](http://arxiv.org/abs/2604.09423)|null|
@@ -2272,6 +2301,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**Geometric structure of ideal data-driven dynamical model using RfR method**|Natsuki Tsutsumi et.al.|[2604.10550](http://arxiv.org/abs/2604.10550)|null|
+|**2026-04-12**|**On the converse of the Shimorin--Peláez--Rättyä--Wick theorem**|Yuerang Li et.al.|[2604.10464](http://arxiv.org/abs/2604.10464)|null|
+|**2026-04-12**|**Safety Guarantees in Zero-Shot Reinforcement Learning for Cascade Dynamical Systems**|Shima Rabiei et.al.|[2604.10429](http://arxiv.org/abs/2604.10429)|null|
+|**2026-04-12**|**Symplectic Constraints in Classical Reaction Dynamics: From Gromov's Camel to Reaction Rates**|Stephen Wiggins et.al.|[2604.10408](http://arxiv.org/abs/2604.10408)|null|
+|**2026-04-11**|**Battery health prognosis using Physics-informed neural network with Quantum Feature mapping**|Muhammad Imran Hossain et.al.|[2604.10362](http://arxiv.org/abs/2604.10362)|null|
+|**2026-04-11**|**Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex**|Alexandru Brateanu et.al.|[2604.10359](http://arxiv.org/abs/2604.10359)|null|
+|**2026-04-11**|**Rigidity in the Planar Ulam Floating Body Problem with perimetral density $σ=\tfrac16$**|Oleg Asipchuk et.al.|[2604.10330](http://arxiv.org/abs/2604.10330)|null|
+|**2026-04-11**|**Riesz $α$ -capacity of Cantor sets and cyclicity in Dirichlet-type spaces**|Dimitrios Vavitsas et.al.|[2604.10324](http://arxiv.org/abs/2604.10324)|null|
+|**2026-04-11**|**Operator Algebras of Bourgain Delbaen Spaces: Realization, Rigidity, and Ideal Structure**|M. H. M. Rashid et.al.|[2604.10285](http://arxiv.org/abs/2604.10285)|null|
+|**2026-04-11**|**Universal Closest Refinement on Measurable Bipartite Relations**|T-H. Hubert Chan et.al.|[2604.10274](http://arxiv.org/abs/2604.10274)|null|
 |**2026-04-10**|**ANTIC: Adaptive Neural Temporal In-situ Compressor**|Sandeep S. Cranganore et.al.|[2604.09543](http://arxiv.org/abs/2604.09543)|null|
 |**2026-04-10**|**Toward World Models for Epidemiology**|Zeeshan Memon et.al.|[2604.09519](http://arxiv.org/abs/2604.09519)|null|
 |**2026-04-10**|**A Neukirch-Uchida Theorem for 3-Manifolds**|Nadav Gropper et.al.|[2604.09469](http://arxiv.org/abs/2604.09469)|null|
@@ -2973,6 +3012,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-11**|**Byzantine-Robust Distributed SGD: A Unified Analysis and Tight Error Bounds**|Boyuan Ruan et.al.|[2604.10179](http://arxiv.org/abs/2604.10179)|null|
+|**2026-04-11**|**Transformers Learn the Optimal DDPM Denoiser for Multi-Token GMMs**|Hongkang Li et.al.|[2604.10074](http://arxiv.org/abs/2604.10074)|null|
+|**2026-04-10**|**New Hybrid Fine-Tuning Paradigm for LLMs: Algorithm Design and Convergence Analysis Framework**|Shaocong Ma et.al.|[2604.09940](http://arxiv.org/abs/2604.09940)|null|
+|**2026-04-10**|**Sustainable Transformer Neural Network Acceleration with Stochastic Photonic Computing**|S. Afifi et.al.|[2604.09759](http://arxiv.org/abs/2604.09759)|null|
 |**2026-04-10**|**Hybrid hierarchical matrices with adaptive mixed precision storage**|Ritesh Khan et.al.|[2604.09147](http://arxiv.org/abs/2604.09147)|null|
 |**2026-04-10**|**Pareto Set Characterization in Constrained Multiobjective Optimization and the COBI Problem Generator ***|Anne Auger et.al.|[2604.09131](http://arxiv.org/abs/2604.09131)|null|
 |**2026-04-10**|**A ROM-based BDDC solver for unfitted p-FEM level-set-based lattice structures**|Gonzalo Bonilla Moreno et.al.|[2604.09113](http://arxiv.org/abs/2604.09113)|null|
@@ -3443,6 +3486,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**Almost Free Non-Archimedean Banach Spaces and Relation to Large Cardinals**|Tomoki Mihara et.al.|[2604.10526](http://arxiv.org/abs/2604.10526)|null|
+|**2026-04-12**|**Remarks on Brauer-Manin obstruction for Weil restrictions**|Sheng Chen et.al.|[2604.10498](http://arxiv.org/abs/2604.10498)|null|
+|**2026-04-12**|**A note on small theta lift**|Jingsong Chai et.al.|[2604.10421](http://arxiv.org/abs/2604.10421)|null|
+|**2026-04-12**|**Neural Stochastic Processes for Satellite Precipitation Refinement**|Shunya Nagashima et.al.|[2604.10414](http://arxiv.org/abs/2604.10414)|null|
+|**2026-04-11**|**The Number of Solutions to $ax+by+cz=n$ for Fibonacci and Lucas triplets**|Pooja Teotia et.al.|[2604.10294](http://arxiv.org/abs/2604.10294)|null|
+|**2026-04-11**|**Algorithmic overlaps as thermodynamic variables: from local to cluster Monte Carlo dynamics in critical phenomena**|Ian Pilé et.al.|[2604.10254](http://arxiv.org/abs/2604.10254)|null|
+|**2026-04-11**|**Normality Of Quartic Cayley Graphs On Regular p-Groups: A CFSG-Free Approach**|Klavdija Kutnar et.al.|[2604.10220](http://arxiv.org/abs/2604.10220)|null|
+|**2026-04-11**|**Bayesian Distance-to-Set Models: from Latent Variable to Latent Projection**|Leo L Duan et.al.|[2604.10178](http://arxiv.org/abs/2604.10178)|null|
+|**2026-04-11**|**Non-solvable groups whose non-linear character degrees have the same number of different prime divisors**|Junying Guo et.al.|[2604.10100](http://arxiv.org/abs/2604.10100)|null|
+|**2026-04-11**|**Cosmological Parameters in $f(T)$ Gravity: Theoretical and Observational Analysis**|Suraj Kumar Behera et.al.|[2604.10061](http://arxiv.org/abs/2604.10061)|null|
 |**2026-04-10**|**Modular curves and bad reduction**|Adam Logan et.al.|[2604.09536](http://arxiv.org/abs/2604.09536)|null|
 |**2026-04-10**|**A Neukirch-Uchida Theorem for 3-Manifolds**|Nadav Gropper et.al.|[2604.09469](http://arxiv.org/abs/2604.09469)|null|
 |**2026-04-10**|**Bounding the exponential sum on squares of some sifted sequences**|E. Malavika et.al.|[2604.09448](http://arxiv.org/abs/2604.09448)|null|
@@ -4149,6 +4202,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**Machine Learning-Based Detection of MCP Attacks**|Tobias Mattsson et.al.|[2604.10534](http://arxiv.org/abs/2604.10534)|null|
+|**2026-04-12**|**SEED: A Large-Scale Benchmark for Provenance Tracing in Sequential Deepfake Facial Edits**|Mengieong Hoi et.al.|[2604.10522](http://arxiv.org/abs/2604.10522)|null|
+|**2026-04-12**|**MuSimA: A Tool with Multi-modal Input for Generating Bespoke ABAC Datasets**|Saket Jha et.al.|[2604.10501](http://arxiv.org/abs/2604.10501)|null|
+|**2026-04-12**|**Public Key Encryption from High-Corruption Constraint Satisfaction Problems**|Isaac M Hair et.al.|[2604.10479](http://arxiv.org/abs/2604.10479)|null|
+|**2026-04-12**|**AI Identification: An Integrated Framework for Sustainable Governance in Digital Enterprises**|Di Kevin Gao et.al.|[2604.10473](http://arxiv.org/abs/2604.10473)|null|
+|**2026-04-12**|**Toward Accountable AI-Generated Content on Social Platforms: Steganographic Attribution and Multimodal Harm Detection**|Xinlei Guan et.al.|[2604.10460](http://arxiv.org/abs/2604.10460)|null|
+|**2026-04-12**|**A Queueing-Theoretic Framework for Dynamic Attack Surfaces: Data-Integrated Risk Analysis and Adaptive Defense**|Jihyeon Yun et.al.|[2604.10427](http://arxiv.org/abs/2604.10427)|null|
+|**2026-04-11**|**Automatic Teller Machines for Offline E-cash**|Anrin Chakraborti et.al.|[2604.10380](http://arxiv.org/abs/2604.10380)|null|
+|**2026-04-11**|**Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion**|Vishal Pramanik et.al.|[2604.10326](http://arxiv.org/abs/2604.10326)|null|
+|**2026-04-11**|**Hijacking Text Heritage: Hiding the Human Signature through Homoglyphic Substitution**|Robert Dilworth et.al.|[2604.10271](http://arxiv.org/abs/2604.10271)|null|
 |**2026-04-10**|**Trans-RAG: Query-Centric Vector Transformation for Secure Cross-Organizational Retrieval**|Yu Liu et.al.|[2604.09541](http://arxiv.org/abs/2604.09541)|null|
 |**2026-04-10**|**XFED: Non-Collusive Model Poisoning Attack Against Byzantine-Robust Federated Classifiers**|Israt Jahan Mouri et.al.|[2604.09489](http://arxiv.org/abs/2604.09489)|null|
 |**2026-04-10**|**Quantum Uncertainty and Entropy**|Giovanni Chesi et.al.|[2604.09384](http://arxiv.org/abs/2604.09384)|null|
