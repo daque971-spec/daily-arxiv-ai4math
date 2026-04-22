@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Goal-Oriented Semantic Communication for Logical Decision Making**|Ahmet Faruk Saz et.al.|[2604.19614](http://arxiv.org/abs/2604.19614)|null|
+|**2026-04-21**|**On Reasoning-Centric LLM-based Automated Theorem Proving**|Yican Sun et.al.|[2604.19558](http://arxiv.org/abs/2604.19558)|null|
 |**2026-04-21**|**Equational and Inductive Reasoning for Maude in Athena**|Mateo Sanabria et.al.|[2604.19475](http://arxiv.org/abs/2604.19475)|null|
 |**2026-04-21**|**Do LLMs Game Formalization? Evaluating Faithfulness in Logical Reasoning**|Kyuhee Kim et.al.|[2604.19459](http://arxiv.org/abs/2604.19459)|null|
 |**2026-04-21**|**A Sequent Calculus for General Inductive Definitions**|Robbe Van den Eede et.al.|[2604.19382](http://arxiv.org/abs/2604.19382)|null|
@@ -1109,6 +1111,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**The non-perturbative topological string: from resurgence to wall-crossing of DT invariants**|Simon Douaud et.al.|[2604.19731](http://arxiv.org/abs/2604.19731)|null|
+|**2026-04-21**|**The integral Chow ring of $\mathcal{M}_{0}(\mathbb{P}^r, 2)**|Renzo Cavalieri et.al.|[2604.19713](http://arxiv.org/abs/2604.19713)|null|
+|**2026-04-21**|**An upper bound on the growth of minimal graphs**|Allen Weitsman et.al.|[2604.19630](http://arxiv.org/abs/2604.19630)|null|
+|**2026-04-21**|**The right invariant metric on the analytic automorphism group of the unit open disk induced by maximal modulus**|Yue Xin et.al.|[2604.19583](http://arxiv.org/abs/2604.19583)|null|
+|**2026-04-21**|**The Lefschetz type theorem for fundamental group schemes**|Lingguang Li et.al.|[2604.19546](http://arxiv.org/abs/2604.19546)|null|
+|**2026-04-21**|**Allard Regularity for Abelian Yang--Mills--Higgs Equation**|Huy The Nguyen et.al.|[2604.19542](http://arxiv.org/abs/2604.19542)|null|
 |**2026-04-21**|**Algebraic Distance Optimization in Polyhedral Norms**|Eliana Duarte et.al.|[2604.19479](http://arxiv.org/abs/2604.19479)|null|
 |**2026-04-21**|**From Finite-Node Conifold Geometry to BPS Structures I: Algebraic State Data**|Abdul Rahman et.al.|[2604.19441](http://arxiv.org/abs/2604.19441)|null|
 |**2026-04-21**|**Forward Dynamics of Variable Topology Mechanisms - The Case of Constraint Activation**|Andreas Mueller et.al.|[2604.19419](http://arxiv.org/abs/2604.19419)|null|
@@ -1899,6 +1907,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**HardNet++: Nonlinear Constraint Enforcement in Neural Networks**|Andrea Goertzen et.al.|[2604.19669](http://arxiv.org/abs/2604.19669)|null|
+|**2026-04-21**|**An effective window framework for closed-Loop regional SAR reconnaissance with hybrid direct-relay downlink scheduling**|Linhong Li et.al.|[2604.19539](http://arxiv.org/abs/2604.19539)|null|
 |**2026-04-21**|**Effective Traveling for Metric Instances of the Traveling Thief Problem**|Jan Eube et.al.|[2604.19271](http://arxiv.org/abs/2604.19271)|null|
 |**2026-04-21**|**Automatic constraint satisfaction problem**|Andrei Bulatov et.al.|[2604.19266](http://arxiv.org/abs/2604.19266)|null|
 |**2026-04-21**|**Moderately beyond clique-width: reduced component max-leaf and related parameters**|Édouard Bonnet et.al.|[2604.19138](http://arxiv.org/abs/2604.19138)|null|
@@ -2581,6 +2591,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Generalization at the Edge of Stability**|Mario Tuci et.al.|[2604.19740](http://arxiv.org/abs/2604.19740)|null|
+|**2026-04-21**|**On local Lipschitz one sets**|Ziemowit M. Wójcicki et.al.|[2604.19704](http://arxiv.org/abs/2604.19704)|null|
+|**2026-04-21**|**The Cesaro operator on L^2(0, 1)**|Anil Belli et.al.|[2604.19691](http://arxiv.org/abs/2604.19691)|null|
+|**2026-04-21**|**Linear response for Sinai billiards with small holes**|Giovanni Canestrari et.al.|[2604.19671](http://arxiv.org/abs/2604.19671)|null|
+|**2026-04-21**|**Multiscale Kinetic Structures for Living Systems**|Diletta Burini et.al.|[2604.19659](http://arxiv.org/abs/2604.19659)|null|
+|**2026-04-21**|**The filter of singularities in global anisotropic microlocal analysis**|Luigi Rodino et.al.|[2604.19619](http://arxiv.org/abs/2604.19619)|null|
+|**2026-04-21**|**A truncation criterion for compactness in asymptotic $L_p$ spaces**|Nuno J. Alves et.al.|[2604.19617](http://arxiv.org/abs/2604.19617)|null|
+|**2026-04-21**|**Quadrature-Enhanced Monte Carlo fPINN Method for High-Dimensional Fractional PDEs**|Qingkui Ma et.al.|[2604.19601](http://arxiv.org/abs/2604.19601)|null|
+|**2026-04-21**|**Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment**|Bobo Li et.al.|[2604.19548](http://arxiv.org/abs/2604.19548)|null|
 |**2026-04-21**|**Emergence of Multiple Crossing Limit Cycles in Planar Piecewise Systems with Isochronous Centers and Nonsmooth Switching Manifolds**|Sonia Isabel Renteria Alva et.al.|[2604.19483](http://arxiv.org/abs/2604.19483)|null|
 |**2026-04-21**|**A neural operator framework for data-driven discovery of stability and receptivity in physical systems**|Chengyun Wang et.al.|[2604.19465](http://arxiv.org/abs/2604.19465)|null|
 |**2026-04-21**|**Representations of binary quadratic forms by quaternary quadratic forms**|Wooyeon Kim et.al.|[2604.19437](http://arxiv.org/abs/2604.19437)|null|
@@ -3904,6 +3923,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Explicit counting of ideals in number fields of arbitrary degree**|Anton Fehnker et.al.|[2604.19681](http://arxiv.org/abs/2604.19681)|null|
+|**2026-04-21**|**Pseudometrics and preorders on sets of integer sequences induced by arithmetic functions functions**|Mario Ziller et.al.|[2604.19646](http://arxiv.org/abs/2604.19646)|null|
+|**2026-04-21**|**The right invariant metric on the analytic automorphism group of the unit open disk induced by maximal modulus**|Yue Xin et.al.|[2604.19583](http://arxiv.org/abs/2604.19583)|null|
+|**2026-04-21**|**Emotion-Cause Pair Extraction in Conversations via Semantic Decoupling and Graph Alignment**|Tianxiang Ma et.al.|[2604.19547](http://arxiv.org/abs/2604.19547)|null|
+|**2026-04-21**|**The swept-back multipolar magnetic field of neutron stars: Application to NICER MSP J0030+0451**|Anu Kundu et.al.|[2604.19534](http://arxiv.org/abs/2604.19534)|null|
+|**2026-04-21**|**Connecting the forward problem to the inverse problem in uncertainty quantification of Earth system models using fast emulators**|Ethan YoungIn Shin et.al.|[2604.19500](http://arxiv.org/abs/2604.19500)|null|
 |**2026-04-21**|**Representations of binary quadratic forms by quaternary quadratic forms**|Wooyeon Kim et.al.|[2604.19437](http://arxiv.org/abs/2604.19437)|null|
 |**2026-04-21**|**Asymptotic e-processes**|Pierre-François Massiani et.al.|[2604.19353](http://arxiv.org/abs/2604.19353)|null|
 |**2026-04-21**|**On the Conditioning Consistency Gap in Conditional Neural Processes**|Robin Young et.al.|[2604.19312](http://arxiv.org/abs/2604.19312)|null|
@@ -4707,6 +4732,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Architecting Early Fault Tolerant Neutral Atoms Systems with Quantum Advantage**|Sahil Khan et.al.|[2604.19735](http://arxiv.org/abs/2604.19735)|null|
+|**2026-04-21**|**"We are currently clean on OPSEC": Why JD Can't Encrypt**|Maurice Chiodo et.al.|[2604.19711](http://arxiv.org/abs/2604.19711)|null|
+|**2026-04-21**|**An AI Agent Execution Environment to Safeguard User Data**|Robert Stanley et.al.|[2604.19657](http://arxiv.org/abs/2604.19657)|null|
+|**2026-04-21**|**Adding Compilation Metadata To Binaries To Make Disassembly Decidable**|Daniel Engel et.al.|[2604.19628](http://arxiv.org/abs/2604.19628)|null|
+|**2026-04-21**|**Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps**|Alankrit Chona et.al.|[2604.19533](http://arxiv.org/abs/2604.19533)|null|
+|**2026-04-21**|**Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection**|Divyesh Gabbireddy et.al.|[2604.19526](http://arxiv.org/abs/2604.19526)|null|
+|**2026-04-21**|**When Graph Structure Becomes a Liability: A Critical Re-Evaluation of Graph Neural Networks for Bitcoin Fraud Detection under Temporal Distribution Shift**|Saket Maganti et.al.|[2604.19514](http://arxiv.org/abs/2604.19514)|null|
+|**2026-04-21**|**Cyclic Equalizability Characterized by Parikh Vectors**|Sarunyu Thongjarast et.al.|[2604.19504](http://arxiv.org/abs/2604.19504)|null|
+|**2026-04-21**|**EvoPatch-IoT: Evolution-Aware Cross-Architecture Vulnerability Retrieval and Patch-State Profiling for BusyBox-Based IoT Firmware**|Yinhao Xiao et.al.|[2604.19496](http://arxiv.org/abs/2604.19496)|null|
 |**2026-04-21**|**API Security Based on Automatic OpenAPI Mapping**|Yarin Levi et.al.|[2604.19471](http://arxiv.org/abs/2604.19471)|null|
 |**2026-04-21**|**Involuntary In-Context Learning: Exploiting Few-Shot Pattern Completion to Bypass Safety Alignment in GPT-5.4**|Alex Polyakov et.al.|[2604.19461](http://arxiv.org/abs/2604.19461)|null|
 |**2026-04-21**|**Malicious ML Model Detection by Learning Dynamic Behaviors**|Sarang Nambiar et.al.|[2604.19438](http://arxiv.org/abs/2604.19438)|null|
